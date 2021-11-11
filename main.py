@@ -32,7 +32,7 @@
 #dictionnaires (les 3 personnages) avec leurs propriétés :
 #● name - string (nom du Joueur)
 
-#Liste chiffres pair et impai
+#Liste chiffres pair et impair
 from random import randrange
 
 marblesSeong = 15  # number of marbles when playing with Seong
